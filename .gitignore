@@ -1,2 +1,6 @@
 **/dataset
 **/catboost_info
+**/models
+**/.ipynb_checkpoints
+**/astro_ner
+**/.idea
